@@ -1,2 +1,2 @@
-# link_dewasa
+# binar_rizky
 Kumpulan script dan tugas Binar DSC
